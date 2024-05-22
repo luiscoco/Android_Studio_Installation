@@ -142,4 +142,36 @@ Select the menu option **Android SDK Platform-Tools**
 
 ![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/09d8a2a5-d60f-42c8-856a-93dbfe9fc8e1)
 
-### 3.7.2. How to create a new Android Virtual Device (AVD)
+### 3.7.2. How to create a new Android Virtual Device (AVD) with Android Studio
+
+We press the three dots button and then we select the option **Virtual Device Manager**
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/afa0ddb8-32b4-4550-9290-9d72144c25e7)
+
+We press the **Create Device** button
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/dd72fa0c-cf61-45ff-a607-5c713e37bd92)
+
+We now have to chose a device definition and press the **Next** button
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/3cdf5725-7401-4b94-a306-862ab70353a1)
+
+We select the **API 34** tab and then we press the **Next** button  
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/e8a70eef-af34-49a3-9a54-2b8f4bbf6d6a)
+
+We press the **Finish** button for creating the mobile device simulator
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/4f66c5bf-a028-4162-b2b9-4328fdddee8d)
+
+We verify the similator was already created pressing the **Launch this AVD in the emulator** button 
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/6569b77f-9784-4ca9-a2eb-a53c203abbfd)
+
+We can see the device is running 
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/1cfdcbb6-f34a-4c31-9f81-b0e0975c63c2)
+
+We can navigat with Google Chrome
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/07627a36-670f-4eb1-9edd-47d056b374e9)
