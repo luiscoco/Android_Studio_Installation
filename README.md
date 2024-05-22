@@ -128,7 +128,9 @@ Run Android Studio and select **More Actions/SDK Manager**
 
 Also we can press on the three dots ![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/4add213c-74bd-44b8-b1be-25e53c7a1cc5) button to see the More Actions menu options
 
-![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/be567b2d-efe2-46a2-80e8-923db249bc24)
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/e9a9f556-6600-415a-b36d-a1f82a7d9bdb)
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/06f619fc-9129-453e-85b5-84fe76432a07)
 
 ### 3.7.1. Install Android SDK Command-line Tools and Android SDK Platform-Tools
 
