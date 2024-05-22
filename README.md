@@ -100,6 +100,10 @@ By selecting the Learn option we have access to the following learing sites
 
 ## 3.5. Options Menu
 
+If we press on the icon ![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/78593a74-ef3f-4c0d-970c-3eea05bd5552)
+ we show the options menu
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/056c286e-7d5d-44e4-9c08-5cdea7e1542e)
 
 
 ## 3.6. 
