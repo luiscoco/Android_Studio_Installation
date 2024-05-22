@@ -56,6 +56,13 @@ We press the **Finish** button and we also select to start Android Studio
 
 ![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/8db049f6-4c0a-469a-875c-948aa405c2d8)
 
+Android Studio is now running
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/5a1dc0fc-981a-4b8a-9018-e6b39a06e987)
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/5015a0a6-2b5c-419a-8292-f9f9c226d0ea)
+
+
 ## 3. Plugins
 
 ## 4. SDK Manager
