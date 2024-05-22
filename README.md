@@ -1,4 +1,8 @@
-# How to install Android Studio (Jellyfish | 2023.3.1 Patch 1) in your Windows laptop
+# How to install Android Studio and create a your first Android Virtual Device (AVD)
+
+In this document we will explain you in detail how to install Android Studio (Jellyfish | 2023.3.1 Patch 1) in your Windows laptop
+
+and also how to create your first AVD with Android Studio for running applications on Mobiles, Tables, TVs, or on Car devices 
 
 ## 1. Download Android Studio setup file
 
