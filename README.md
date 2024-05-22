@@ -62,8 +62,22 @@ Android Studio is now running
 
 ![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/5015a0a6-2b5c-419a-8292-f9f9c226d0ea)
 
+## 3. Android Studio first window overview
 
-## 3. Plugins
+
+
+### 3.1. Projects
+
+### 3.2. Customize
+
+### 3.3. Plugins
+
+### 3.4. Learn
+
+## 3.5. Options Menu
+
+## 3.6. 
+
 
 ## 4. SDK Manager
 
