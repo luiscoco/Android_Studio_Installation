@@ -1,4 +1,4 @@
-# How to install Android Studio, create a Mobile App and an Android Virtual Device (AVD)
+# How to install Android Studio, create a Mobile App and create Android Virtual Device (AVD)
 
 In this document we will explain you in detail how to install Android Studio (Jellyfish | 2023.3.1 Patch 1) in your Windows laptop
 
