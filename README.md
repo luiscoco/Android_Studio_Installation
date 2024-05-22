@@ -122,10 +122,18 @@ If we press on the icon ![image](https://github.com/luiscoco/Android_Studio_Inst
 
 ## 3.7. More Actions ![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/4add213c-74bd-44b8-b1be-25e53c7a1cc5)
 
+Run Android Studio and select **More Actions/SDK Manager**
 
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/6eb3ca8b-b760-4846-ac47-668b4f0f1feb)
 
+### 3.7.1. Install Android SDK Command-line Tools and Android SDK Platform-Tools
 
-### 3.7.1. Install Android SDK Tools
+Select the menu option **Android SDK Command Line Tools**
 
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/2ba1b348-c0eb-4e03-b7d6-2ed85c324cd8)
+
+Select the menu option **Android SDK Platform-Tools**
+
+![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/09d8a2a5-d60f-42c8-856a-93dbfe9fc8e1)
 
 ### 3.7.2. How to create a new Android Virtual Device (AVD)
