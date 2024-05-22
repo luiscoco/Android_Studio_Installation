@@ -18,4 +18,15 @@ We confirm we downloaded Android Studio Setup file
 
 ![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/f8c53f64-0169-4d2d-9799-b9a5a89bfba8)
 
-## 2. 
+## 2. How to Install Androi Studio
+
+We double click on the setup file
+
+If we already install a previous version we will see the following window
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/2b2c42d9-2de5-4a44-92a7-567006924976)
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/4206f45a-8362-419c-b17e-f08c09aab0c3)
+
+
+
