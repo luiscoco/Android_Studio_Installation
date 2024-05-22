@@ -84,9 +84,23 @@ When pressing on the **All settings** link we get access to all the options to c
 
 ### 3.3. Plugins
 
+We can see the MarketPlace available plugins 
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/2a6132c1-f00f-45fd-9212-3f97ee95a253)
+
+And also we can see the already installed plugins
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/d325ecb1-27cc-41c5-a23a-da08cec98718)
+
 ### 3.4. Learn
 
+By selecting the Learn option we have access to the following learing sites
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/9edee68d-46d8-428e-b4e3-a3893d1529e9)
+
 ## 3.5. Options Menu
+
+
 
 ## 3.6. 
 
