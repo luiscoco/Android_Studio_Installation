@@ -72,6 +72,13 @@ If we select the Projects option, we visualize all the projects we recently crea
 
 ### 3.2. Customize
 
+With the customize option we can modify the IDE color theme, the accesibility and key map
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/56d323b7-0921-4603-b6b3-8ffbc7fba4d5)
+
+When pressing on the **All settings** link we get access to all the options to custimize Android IDE
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/b89be4f6-2f33-49cb-9477-5985744962de)
 
 ### 3.3. Plugins
 
