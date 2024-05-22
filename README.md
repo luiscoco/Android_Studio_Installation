@@ -126,6 +126,10 @@ Run Android Studio and select **More Actions/SDK Manager**
 
 ![image](https://github.com/luiscoco/Flutter_Installation_lesson1/assets/32194879/6eb3ca8b-b760-4846-ac47-668b4f0f1feb)
 
+Also we can press on the three dots ![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/4add213c-74bd-44b8-b1be-25e53c7a1cc5) button to see the More Actions menu options
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/be567b2d-efe2-46a2-80e8-923db249bc24)
+
 ### 3.7.1. Install Android SDK Command-line Tools and Android SDK Platform-Tools
 
 Select the menu option **Android SDK Command Line Tools**
