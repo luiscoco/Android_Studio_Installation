@@ -60,15 +60,18 @@ Android Studio is now running
 
 ![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/5a1dc0fc-981a-4b8a-9018-e6b39a06e987)
 
-![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/5015a0a6-2b5c-419a-8292-f9f9c226d0ea)
-
 ## 3. Android Studio first window overview
 
-
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/72e30b3c-1bab-4d07-bedd-ee072e2a3b0c)
 
 ### 3.1. Projects
 
+If we select the Projects option, we visualize all the projects we recently created with Android Studio
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/89d9094b-f3b8-4619-a3c2-e2925972dd43)
+
 ### 3.2. Customize
+
 
 ### 3.3. Plugins
 
@@ -79,6 +82,7 @@ Android Studio is now running
 ## 3.6. 
 
 
-## 4. SDK Manager
+## 4. Install Android SDK Tools
 
-## 5. Device Manager
+
+## 5. How to create a new Android Virtual Device (AVD)
