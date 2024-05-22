@@ -115,9 +115,20 @@ If we press on the icon ![image](https://github.com/luiscoco/Android_Studio_Inst
 
 ### 3.6.1. Create a new Android/Kotlin Project
 
+We press on the **New Project** button
 
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/13a2b8f1-8eee-426c-a31c-30d95f9c833c)
+
+We select a project template
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/b36dcfb9-69af-42d2-8f3d-32031e878653)
+
+We also input the new project name, location and SDK version
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/d03371ff-abe7-48e7-a0a9-af241bf60cbf)
 
 ### 3.6.2. Create a new Flutter Project
+
 
 
 
