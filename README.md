@@ -105,11 +105,26 @@ If we press on the icon ![image](https://github.com/luiscoco/Android_Studio_Inst
 
 ![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/056c286e-7d5d-44e4-9c08-5cdea7e1542e)
 
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/816e2bfc-d345-4bab-b6e3-700008dbbe48)
 
-## 3.6. 
+## 3.6. How to create a New Project or Open a Project
+
+### 3.6.1. Create a new Android/Kotlin Project
 
 
-## 4. Install Android SDK Tools
+
+### 3.6.2. Create a new Flutter Project
 
 
-## 5. How to create a new Android Virtual Device (AVD)
+
+### 3.6.3. Open an existing Project
+
+
+## 3.7. 
+
+
+
+### 3.7.1. Install Android SDK Tools
+
+
+### 3.7.2. How to create a new Android Virtual Device (AVD)
