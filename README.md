@@ -143,7 +143,13 @@ We input the new Flutter data and press **Create** button
 
 ### 3.6.3. Open an existing Project
 
+We press the **Open** button
 
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/f9c2b830-7623-4dec-ab08-31115fcbcabe)
+
+Then we select the projec file to be opened 
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/1e57710f-af0e-4315-9ec8-7f99f95fcc63)
 
 ## 3.7. More Actions ![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/4add213c-74bd-44b8-b1be-25e53c7a1cc5)
 
