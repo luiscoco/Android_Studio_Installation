@@ -36,3 +36,10 @@ We select the components to be installed
 
 ![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/bd164ba9-a3e2-4941-8dfd-546ba38c70d8)
 
+We select the location
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/95561c7b-a515-4662-bb86-8e5b1ed95c73)
+
+We also select the Start Menu
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/439ec6e0-862c-453e-a823-97835afd41c3)
