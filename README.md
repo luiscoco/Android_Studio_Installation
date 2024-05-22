@@ -1,4 +1,4 @@
-# How to install Android Studio and create a your first Android Virtual Device (AVD)
+# How to install Android Studio, create a Mobile App and an Android Virtual Device (AVD)
 
 In this document we will explain you in detail how to install Android Studio (Jellyfish | 2023.3.1 Patch 1) in your Windows laptop
 
@@ -129,10 +129,20 @@ We also input the new project name, location and SDK version
 
 ### 3.6.2. Create a new Flutter Project
 
+Press the **New Flutter Project** button
 
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/3ba4754e-ae68-4251-bf31-89f2855339c9)
 
+We select the Flutter SDK Path
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/f544ce6a-94c5-4290-aa6d-7a56fb21ed08)
+
+We input the new Flutter data and press **Create** button
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/f89be657-625f-480c-960f-468def52e99d)
 
 ### 3.6.3. Open an existing Project
+
 
 
 ## 3.7. More Actions ![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/4add213c-74bd-44b8-b1be-25e53c7a1cc5)
