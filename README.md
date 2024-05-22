@@ -52,4 +52,12 @@ When the installation is finished we can continue pressing the **Next** button
 
 ![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/252d308b-2cff-49a0-a343-d72e8333d7a7)
 
-Finally, 
+We press the **Finish** button and we also select to start Android Studio
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/8db049f6-4c0a-469a-875c-948aa405c2d8)
+
+## 3. Plugins
+
+## 4. SDK Manager
+
+## 5. Device Manager
