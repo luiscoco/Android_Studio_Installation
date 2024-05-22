@@ -120,7 +120,8 @@ If we press on the icon ![image](https://github.com/luiscoco/Android_Studio_Inst
 ### 3.6.3. Open an existing Project
 
 
-## 3.7. 
+## 3.7. More Actions ![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/4add213c-74bd-44b8-b1be-25e53c7a1cc5)
+
 
 
 
