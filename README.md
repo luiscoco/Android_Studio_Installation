@@ -28,5 +28,11 @@ If we already install a previous version we will see the following window
 
 ![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/4206f45a-8362-419c-b17e-f08c09aab0c3)
 
+Now we can start with the new version installation
 
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/08fc477d-dd1e-45f1-a7ef-090c77dba7e8)
+
+We select the components to be installed
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/bd164ba9-a3e2-4941-8dfd-546ba38c70d8)
 
