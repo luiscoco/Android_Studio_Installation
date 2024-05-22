@@ -78,6 +78,8 @@ With the customize option we can modify the IDE color theme, the accesibility an
 
 When pressing on the **All settings** link we get access to all the options to custimize Android IDE
 
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/5e3d8e80-e215-4c28-89f8-f8d0daf068aa)
+
 ![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/b89be4f6-2f33-49cb-9477-5985744962de)
 
 ### 3.3. Plugins
