@@ -43,3 +43,13 @@ We select the location
 We also select the Start Menu
 
 ![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/439ec6e0-862c-453e-a823-97835afd41c3)
+
+Now let´s wait for finishing the installation
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/bf6c499c-35ef-44d0-87b2-982b6022f724)
+
+When the installation is finished we can continue pressing the **Next** button
+
+![image](https://github.com/luiscoco/Android_Studio_Installation/assets/32194879/252d308b-2cff-49a0-a343-d72e8333d7a7)
+
+Finally, 
